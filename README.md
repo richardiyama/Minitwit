@@ -22,9 +22,7 @@
 
 <img src="https://github.com/richardiyama/Minitwit/blob/master/twit-client-app/public/twitpost.png" height="400" />
 
-### Post List
 
-<img src=https://github.com/richardiyama/Minitwit/blob/master/twit-client-app/public/twitList.png height="400" />
 
 ### Comment on Post
 
