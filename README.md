@@ -12,6 +12,12 @@ Sequelize
 # End points
 # Register new user
 Post: localhost:8080/api/auth/signup
+
+{
+	"email": "iyamarichard@gmail.com",
+	"password": "JAVA4real2021"
+}
+
 # Signin
 Post: localhost:8080/api/auth/signin
 
