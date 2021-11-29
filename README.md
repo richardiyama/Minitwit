@@ -4,7 +4,7 @@ run:npm install to install required packages
 Run: node server.js to start the server.
 
 # Database used
-Mysql(PhpMyadmin)
+Progresql
 
 # ORM used
 Sequelize
