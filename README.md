@@ -35,6 +35,12 @@ Get: localhost:8080//api/user/getuser
 # Create Post
 Post: localhost:8080/api/twits/post
 
+{
+	"title": "gift",
+	"content": "Great Post",
+	"userId": "1"
+}
+
 # Get Post By ID
 Get: localhost:8080/api/twit/getPostById
 
