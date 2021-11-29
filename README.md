@@ -1,5 +1,7 @@
 # Minitwit
 
+# Backend
+
 run:npm install to install required packages
 Run: node server.js to start the server.
 
@@ -60,4 +62,11 @@ Post: localhost:8080/api/twit/like
 "postId": 1,
  "userId":1
 }
+
+# Client Side
+- Run: npm start to start React app
+
+
+### The Frontend(Client Side) was built with
+- [React](https://reactjs.org/) - React Framework
 
