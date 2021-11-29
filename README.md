@@ -56,3 +56,8 @@ Post: localhost:8080/api/twit/comment
 
 # Like a post
 Post: localhost:8080/api/twit/like
+{
+"postId": 1,
+ "userId":1
+}
+
