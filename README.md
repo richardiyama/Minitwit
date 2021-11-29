@@ -11,15 +11,21 @@ Sequelize
 
 # End points
 # Register new user
-Post: localhost:8080/api/v1/signup
+Post: localhost:8080/api/auth/signup
 # Signin
-Post: localhost:8080/api/v1/signin
+Post: localhost:8080/api/auth/signin
+
+# Get all User
+Post: localhost:8080/api/user/getAllUser
+
+#Get a User
+Get: localhost:8080//api/user/getuser
 
 # Create Post
-Post: localhost:8080/api/v1/twits
+Post: localhost:8080/api/twits/post
 
-# Delete Post
-Delete: localhost:8080/api/v1/:id
+# Get Post By ID
+Get: localhost:8080/api/twit/getPostById
 
 # Comment on post
-Post: localhost:8080/api/v1/comments
+Post: localhost:8080/api/twit/comments
